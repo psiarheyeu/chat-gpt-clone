@@ -26,13 +26,13 @@ Before you begin, ensure you have Node.js (v20 or above)
 - Clone this repository:
 
 ```bash
-git clone https://github.com/estheragbaje/chatgpt-clone-tutorial.git
+git clone https://github.com/estheragbaje/chat-gpt-clone.git
 ```
 
 - Go into the directory
 
 ```bash
-cd chatgpt-clone-tutorial
+cd chat-gpt-clone
 ```
 
 - Install dependencies:
